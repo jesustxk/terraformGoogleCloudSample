@@ -5,7 +5,7 @@
 
 variable "gcp_project" {
   # Configurar el nombre del proyecto en GCP
-  default = "cnsa-2022"
+  default = "cnsa2023-jcg577"
 }
 
 terraform {
